@@ -76,7 +76,9 @@ After looking at the Burning Glass data, I've gained a better appreciation  and 
   <h2>IT Work</h2>
     <h3>Software Engineer</h3>
      <p>
+     <a href="https://www.youtube.com/watch?v=vRSRElAIdsU">
      https://www.youtube.com/watch?v=vRSRElAIdsU
+     </a>
 
 <br>
 <br>
@@ -88,7 +90,9 @@ He will also look at other projects that have not started yet, so working with a
 <br>
 He deals with various different people in his day to day life. He will directly work with various teams of software engineers to make effectively communicate and keep on top of the dynamic projects that he is responsible for. He must work with a team of project managers to start and help construct, plan and give insight into new projects for the company. The clients and stakeholders he must also be in constant communication with.
 <p>
+<a href="https://www.youtube.com/watch?v=5kas2jBObUY">
 https://www.youtube.com/watch?v=5kas2jBObUY
+</a>
 
 <br>
 <br>
@@ -106,7 +110,9 @@ This includes coming up with a plan, deciding if she needs to collaborate with o
 
     <h3>Network Engineer</h3>
       <p>
-      https://www.youtube.com/watch?v=qpUe7vQSsyI
+      <a href="https://www.youtube.com/watch?v=qpUe7vQSsyI">
+      https://www.youtube.com/watch?v=5kas2jBObUY
+      </a>
 
 <br>
 <br>
@@ -121,7 +127,9 @@ He will meet with business stakeholders to discuss potential issues that might c
 <br>
 
 <p>
+<a href="https://www.youtube.com/watch?v=qpZbRUEE_Dc">
 https://www.youtube.com/watch?v=qpZbRUEE_Dc
+</a>
 <br>
 <br>
 This IT professional is a Network Analyst, his main job is to monitor the stores that his company manages in terms of connectivity, and make sure these systems are running smoothly.
@@ -133,7 +141,9 @@ A project he is currently working on is a backup connection device to all of the
 
 <h3>Database Administrator</h3>
 <p>
+<a href="https://www.youtube.com/watch?v=Fp2DPhLM8Kw">
 https://www.youtube.com/watch?v=Fp2DPhLM8Kw
+</a>
 
 <br>
 <br>
@@ -145,7 +155,9 @@ She works with other database administrators to resolve outages as well as direc
 </p>
 <br>
 <p>
+<a href="https://www.youtube.com/watch?v=ZNvn1mJwHiw">
 https://www.youtube.com/watch?v=ZNvn1mJwHiw
+</a>
 
 <br>
 <br>
@@ -158,6 +170,44 @@ He will have meetings with Project Managers and other Database Administers about
 <br>
 The rest of his role is mainly just monitoring the databases, making sure everything is running and handling client requests.
 </p>
+<h3> IT Support Technician</h3>
+<p>
+<a href="https://www.youtube.com/watch?v=om8AygYdrto">
+https://www.youtube.com/watch?v=om8AygYdrto
+</a>
+In this video the mans job is as a support technician for his company. He interacts with other It professionals and clients . His job is to wait for and respond to tickets. Everyday he waits for tickets and answers the phone using Shortell.
+<br>
+He also goes out into the field to clients and helps clients with issues such as making user accounts. He does computer imaging. All in all it is safe to say he always has an exciting day with many new challenges every day and that makes him enjoy his job.
+</p>
+<p>
+<a href="https://www.youtube.com/watch?v=RYdmWa-i7Gs"
+https://www.youtube.com/watch?v=RYdmWa-i7Gs
+</a>
+Chris is an IT Support Technician at Datacom systems. His job consists of responding the technical questions asked by clients. He spends most of his time responder to questions about application updates, website releases and application releases.
+<br>
+He does note that he can work from home on occasion which he enjoys, but the most rewarding aspect of work is the sense of accomplishment he gets when he solves a tough problem. He believes the most challenging aspect of his work is the wide range of skills required for the job.
+</p>
+
+<h3> IT Manager</h3>
+<p>
+<a href="https://www.youtube.com/watch?v=k0rntQHNu-U"
+https://www.youtube.com/watch?v=k0rntQHNu-U
+</a>
+Rim is a project manager, her job is to make sure everyone is doing their job, check up on where people are up to and agile project management tasks . Rim interacts with IT professionals only.
+<br>
+She spends most of her time at the office except for when she goes out to lunch, in which she goes into the city. The most challenging aspect of their career seems to be time management, making sure she's working as efficiently and possible and meeting deadlines.
+
+
+</p>
+<p>
+<a href="https://www.youtube.com/watch?v=hFhuMGanjT8">
+https://www.youtube.com/watch?v=hFhuMGanjT8
+</a>
+Simon is an IT manager at Datacom systems. He interacts solely with other IT professionals, project managers and business manager. His day consists of group meeting and one on one chats with other Industry professionals to help them succeed in their roles, although sometimes he does get to travel. His biggest challenge as an IT manager is adapting to new technologies
+
+</p>
+
+
 
 <h2>IT Technologies</h2>
   <h3>Blockchain and Cryptocurrency</h3>
@@ -325,7 +375,7 @@ This would come with a few unique challengers for us such as remaking the game f
 <h2>Group Reflection</h2>
 <p>
 Kyle Winfield:
-
+<br>
 During this assignment there were mostly only problems due to time constraints that were very avoidable. The main problem is the lack of group members that occurred due to leaving the assignment to a very late date for completion and not being to find other group members to work with us.
 <p>
 </p>
@@ -359,9 +409,6 @@ What I learned about groups
 I learned that working in a group can have some issues, even with the best of planning, I also learned that playing to the strengths of your groupmates is very important.
 <br>
 </p>
-<br>
-<img src="CommitTrail.png">
-
 
 
 
@@ -369,20 +416,22 @@ I learned that working in a group can have some issues, even with the best of pl
   <h2> References</h2>
   <ol>
 
-  <li>http://si-journal.org/index.php/JSI/article/viewFile/335/325</li>
-  <li>https://www.investopedia.com/terms/c/cryptocurrency.asp</li>
-  <li>https://www.investopedia.com/terms/b/blockchain.asp</li>
-  <li>https://www.cbinsights.com/research/industries-disrupted-blockchain/</li>
-  <li>https://www.outsource2india.com/software/articles/impact-cryptocurrency-bitcoin.asp</li>
-  <li>https://www.investopedia.com/articles/forex/091013/future-cryptocurrency.asp</li>
+  <li>Lansky, J. (2018). Possible State Approaches to Cryptocurrencies. Journal of Systems Integration, [online] 9(1), pp.19–31. Available at: http://www.si-journal.org/index.php/JSI/article/viewFile/335/325.</li>
+  <li>Medium. 2020. 9 Applications Of Machine Learning From Day-To-Day Life. [online] Available at: <https://medium.com/app-affairs/9-applications-of-machine-learning-from-day-to-day-life-112a47a429d0> [Accessed 19 April 2020].</li>
+  <li>Investopedia. (2019). Cryptocurrency. [online] Available at: https://www.investopedia.com/terms/c/cryptocurrency.asp</li>
+  <li>Investopedia. (2018). Blockchain, Explained. [online] Available at: https://www.investopedia.com/terms/b/blockchain.asp.</li>
+  <li>CB Insights Research. (2019). Banking Is Only The Beginning: 55 Big Industries Blockchain Could Transform. [online] Available at: https://www.cbinsights.com/research/industries-disrupted-blockchain/.</li>
+  <li>Outsource2india.com. (2020). Impact of Cryptocurrency and Bitcoin - Outsource2india. [online] Available at: https://www.outsource2india.com/software/articles/impact-cryptocurrency-bitcoin.asp#.</li>
 
-  <li>https://www.cisco.com/c/en_au/products/security/what-is-cybersecurity.html</li>
-  <li>https://us.norton.com/internetsecurity-malware-what-is-cybersecurity-what-you-need-to-know.html</li>
-  <li>https://www.onelogin.com/learn/what-is-mfa</li>
+  <li>Investopedia. (2019). The Future Of Cryptocurrency. [online] Available at: https://www.investopedia.com/articles/forex/091013/future-cryptocurrency.asp.</li>
+  <li>Cisco. (2019). What Is Cybersecurity? [online] Available at: https://www.cisco.com/c/en_au/products/security/what-is-cybersecurity.html.</li>
+  <li>Norton.com. (2015). Norton. [online] Available at: https://us.norton.com/internetsecurity-malware-what-is-cybersecurity-what-you-need-to-know.html.</li>
   <li>https://www.parliament.vic.gov.au/publications/research-papers/download/36-research-papers/13839-automated-vehicles</li>
-  <li>https://www.racv.com.au/on-the-road/driving-maintenance/road-safety/car-safety/autonomous-vehicles.html </li>
+  <li>OneLogin. (2019). What is Multi-Factor Authentication (MFA), and how does it work? [online] Available at: https://www.onelogin.com/learn/what-is-mfa. </li>
 
-<li>https://medium.com/app-affairs/9-applications-of-machine-learning-from-day-to-day-life-112a47a429d0</li>
+<li>Vic.gov.au. (2012). Parliament of Victoria - Automated Vehicles. [online] Available at: https://www.parliament.vic.gov.au/publications/research-papers/download/36-research-papers/13839-automated-vehicles.</li>
+<li>@RACV. (2018). Autonomous Vehicles | Driverless Cars | RACV. [online] Available at: https://www.racv.com.au/on-the-road/driving-maintenance/road-safety/car-safety/autonomous-vehicles.html. </li>
+
   </ol>
 
 

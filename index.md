@@ -259,8 +259,11 @@ Self-driving car technology is becoming more economically and commercially viabl
 <br>
 The following table describes different levels of automation.
 Table 1. Levels of automation
-INSERT TABLE
-Source: Compiled form DIRD Submission to Standing Committee; ADVI website
+</p>
+<p>
+<img src="Table1.png">
+</p>
+<p>
 <br>
 Currently SAE levels 1 and 2 are already available on the market and can be used on the roads. Higher level automation vehicles are being tested and developed in controlled environments.
 The goal for this development is to have driverless cars at SAE level 5 and it is coming very soon. As technology improves, sensors, radars, cameras will become more developed, to the point where it can be combined to produce fully automated cars capable of being used without human monitoring or intervention.
@@ -356,8 +359,8 @@ What I learned about groups
 I learned that working in a group can have some issues, even with the best of planning, I also learned that playing to the strengths of your groupmates is very important.
 <br>
 </p>
-
-
+<br>
+<img src="CommitTrail.png">
 
 
 

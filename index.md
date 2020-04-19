@@ -11,9 +11,9 @@
         <a href="https://kylewinfield.github.io/Assignment1--My-Profile/">
         <p>Kyle Winfield's Profile<p/>
         </a>
-        <img src="Kyle Winfield Resources/Big 5 Personality.png">
+        <img src="Kyle Winfield Resources/Big5Personality.png">
         <br>
-        <img src="Kyle Winfield Resources/Learning Styles Test.png">
+        <img src="Kyle Winfield Resources/LearningStylesTest.png">
         <br>
         <img src="Kyle Winfield Resources/MysersBriggs.png">
         <br>

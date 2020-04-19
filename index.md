@@ -4,15 +4,16 @@
       <h2> Kyle Winfield </h2>
         <p>My name is Kyle Winfield, student number s3541867.
         I'm a 23 year old student studying IT, I have worked various jobs from casual hospitality to basic IT helpdesk support.
+        <br>
         I've been playing competitive video games for the last few years and spend most of my free time doing so. It is my main hobby and interest.
         <br>
         My interest in it has developed from a young age, where I spent my time using the computer and playing video games. In school, I took an interest in computer networking and was quite passionate about it. Later on in my life, I worked for the DHHS doing level 1 IT help desk support.
         </p>
         <br>
         <a href="https://kylewinfield.github.io/Assignment1--My-Profile/">
-        <p>Kyle Winfield's Profile<p/>
+        <p>Kyle Winfield's Profile<p/> </a>
 
-        </a>
+        <br>
 
         <img src="Kyle Winfield Resources/Big5personality.png">
         <br>
@@ -46,7 +47,7 @@
 
       <h2>Ideal Jobs Comparison</h2>
         <h3>Kyle Winfield's job ad</h3>
-          <img src="Kyle Winfield Resources/Jobad.png">
+          <img src="Kyle Winfield Resources/JobAd.png">
         <h3> Kyle Broadhurst's job ad</h3>
           <img src="kyle broadhurst resources/Snapshot.png">
 
@@ -77,8 +78,8 @@ After looking at the Burning Glass data, I've gained a better appreciation  and 
      <p>
      https://www.youtube.com/watch?v=vRSRElAIdsU
 
-
-
+<br>
+<br>
 This IT professional is a project manager and is responsible for 3-4 projects to manage. He will constantly be checking monitoring the project to see if there are any changes from business needs, customer changing their mind or any other reason and react and adapt with his team as the changes happen.
 <br>
 He works closely with his teams around planning those projects, seeing what’s the next phase they are going in to, who is involved, what type of resources he needs, what is the budget, what is the timeline and then communicate this is to everyone in the team and all the stakeholders.
@@ -89,7 +90,8 @@ He deals with various different people in his day to day life. He will directly 
 <p>
 https://www.youtube.com/watch?v=5kas2jBObUY
 
-
+<br>
+<br>
 
 
 
@@ -107,7 +109,7 @@ This includes coming up with a plan, deciding if she needs to collaborate with o
       https://www.youtube.com/watch?v=qpUe7vQSsyI
 
 <br>
-
+<br>
 This IT professional is a Network Engineer, his main job is to maintain the connectivity of computer networks in terms of voice, data and wireless network services within an organization.  
 He will be monitoring the ticketing system from the organization's help desk team to see if any tickets have been escalated to him. This is the number one priority and what he spends most of his time doing, since user impact directly reflects on him and his skill to maintain a network.
 <br>
@@ -121,6 +123,7 @@ He will meet with business stakeholders to discuss potential issues that might c
 <p>
 https://www.youtube.com/watch?v=qpZbRUEE_Dc
 <br>
+<br>
 This IT professional is a Network Analyst, his main job is to monitor the stores that his company manages in terms of connectivity, and make sure these systems are running smoothly.
 He provides level 3 help desk support to clients and will spend a lot of his time dealing with those tickets. This is usually resolving network issues with the clients. Anything with an IP address he will be helping resolve, problems can arise like when a site goes down, he will work with them to get it back up.
 <br>
@@ -133,7 +136,7 @@ A project he is currently working on is a backup connection device to all of the
 https://www.youtube.com/watch?v=Fp2DPhLM8Kw
 
 <br>
-
+<br>
 This IT professional is a Database Administrator, her main role is supporting a specific data base software at her company.
 <br>
 She is responsible for maintaining the database ensuring there are no outages and then working her work queue. This queue will consist of some data base changes, helping fix any outages that she might get called in to do, or fine tuning from customer requests.
@@ -145,7 +148,7 @@ She works with other database administrators to resolve outages as well as direc
 https://www.youtube.com/watch?v=ZNvn1mJwHiw
 
 <br>
-
+<br>
 This professional is an Oracle Database Administrator.
 First thing he will do in a typical day is check all the databases are up and running, and making sure they didn’t go out in the night and there are no problems.
 Then he will check his backups, to make sure they are operational.
@@ -177,7 +180,8 @@ If two different instructions for changing the ownership of the same cryptograph
 <br>
 Cryptocurrencies can be used today online as a currency, with the main difference from other forms of currency being the parties involved are semi-anonymous and the currency itself is decentralized, making it immune from intervention from another party, like the government.
 The future of cryptocurrency is an uncertain one, but some say that it needs a verified exchange trade fund, so that it is easier for people to invest in crypto’s like Bitcoin. While Bitcoin would still need to see some more demand, it would be the next step for cryptocurrency.
-<br>
+</p>
+<p>
 Some limitations of crypto are potential hackers and computer crashes can wipe out someone’s invested into whatever crypto they are invested in. In time, technological advances will help ease these issues.
 The main issue with crypto is the paradox that if crypto becomes more popular it will attract more regulation from governing bodies, which defeats the purpose of crypto’s fundamental premise.
 <br>
@@ -191,26 +195,21 @@ The decentralization process makes it much harder for anyone to meddle with any 
 For example, the use of block chains in banking is highly profitable as it could cut out potentially $20 billion in middleman costs, along with all the benefits that block chain provides, such as efficiency, transparency and privacy.
 <br>
 Another potential application is voting, while not ready yet, in future the potential for block chains to cast, track and count votes from verified users. This could get rid of the need for recounts and remove the potential of vote fraud or any tampering.
-<br>
+
+</p>
+<p>
 
 Block chain can be applied in a variety of ways to lots of different businesses. It’s efficiency and decentralized structure are very appealing for any record of transactions, as nearly all businesses would want this kind of transparency and efficiency.
 <br>
-Cryptocurrencies have interesting applications for global and various localized economies. Some countries, such as china, have made it increasingly difficult for people, including businesses, to spend the nation’s currency outside of the country. As a result, Bitcoin is coming more popular, especially since more businesses are accepting Bitcoin as a form of payment.<br>
-
+Cryptocurrencies have interesting applications for global and various localized economies. Some countries, such as china, have made it increasingly difficult for people, including businesses, to spend the nation’s currency outside of the country. As a result, Bitcoin is coming more popular, especially since more businesses are accepting Bitcoin as a form of payment.
+<br>
 While in other countries that have become corrupt, cryptocurrency has become more popular. In both India and Venezuela banned their highest currency note in order to make it tougher to make accumulated black money useless, which boosts the demand for Bitcoin so citizens can send and receive money without needing to answer to the government.  
 <br>
 In my daily life, blockchains and cryptocurrency do not affect me very much at all. Cryptocurrency is an interesting new idea, but as it stands the need for it in my life does not exist and may not for many years.
 <br>
 Blockchain technology could start to be implemented in many ways as described above, possibly changing the way my bank transactions work or even my online shopping. Although these might be the closest ways, they impact me directly, I likely would not notice the difference from a consumer perspective.
 <br>
-References:
 
-http://si-journal.org/index.php/JSI/article/viewFile/335/325
-https://www.investopedia.com/terms/c/cryptocurrency.asp
-https://www.investopedia.com/terms/b/blockchain.asp
-https://www.cbinsights.com/research/industries-disrupted-blockchain/
-https://www.outsource2india.com/software/articles/impact-cryptocurrency-bitcoin.asp#
-https://www.investopedia.com/articles/forex/091013/future-cryptocurrency.asp
 </p>
 
 <h3>Cybersecurity</h3>
@@ -220,7 +219,8 @@ As more businesses and individuals become reliant on computers, cybersecurity be
 <br>
 Protecting computers and computer networks from these threats can come from different approaches. There’s educating the user, with teaching them about basic security principles such as password strength, two-factor authentication, backing up your data and knowing what suspicious emails look like.
 Then there’s the technology layer, from software and hardware, such as more advanced routers, computers, networks, and smart devices that have newer features like firewalls, DNS filtering, malware protection and antivirus software.
-<br>
+</p>
+<p>
 Multi-factor authentication is a simple way to add extra layers of security to a network, account or device. There are 4 different types of factors for authentication. Something you have, something you know, something you are and somewhere you are.
 <br>
 By adding more factors to the authentication process, it effectively adds more layers to the security of the user’s subject.
@@ -234,7 +234,8 @@ Here we can see more jobs being available for various reasons. Cybersecurity is 
 <br>
 You also need people installing said cybersecurity, whether it be software or hardware.
 There are also hackers that are hired in order to explore potential vulnerabilities in cybersecurity systems so that the developers of that system can fix these vulnerabilities, ensuring a strong product for the consumer.
-<br>
+</p>
+<p>
 
 The impact of Cybersecurity on my life is significant, as I am spending majority of my time online. The security of my PC, my phone and my home network are of great importance to my lifestyle.
 <br>
@@ -249,9 +250,7 @@ My friends and family will and need to use similar precautions as in the digital
 
 
 References:
-https://www.cisco.com/c/en_au/products/security/what-is-cybersecurity.html
-https://us.norton.com/internetsecurity-malware-what-is-cybersecurity-what-you-need-to-know.html
-https://www.onelogin.com/learn/what-is-mfa
+
 </p>
 
 <h3> Autonomous Vehicles</h3>
@@ -272,7 +271,8 @@ The auto industry predicts we are just 5-10 years away from automated vehicles a
 <br>
 This could completely change the way we use transport today, reducing the number of road accidents, increased productivity from not needing to drive, improving roads from traffic efficiency and congestion and financially more efficient.
 People will not need to own cars as it is likely to be more financially beneficial for the consumers and businesses alike to use automated vehicles for transporting people or goods.
-<br>
+</p>
+<p>
 Employment regarding automated vehicles will be a transformation of the current automobile industry, while potentially removing all jobs related to humans driving (taxis, trucks, buses, deliveries etc.). While it will remove some jobs, it will also create new jobs requiring new skills. These new jobs would consist of things like roles in supplying, maintaining and operating automated vehicles.
 <br>
 According to the DIIS, workers that are currently employed as professional drivers are generally less educated, older and have few transferable skills, which could potentially make it harder for these people to find new jobs in the future.
@@ -282,12 +282,6 @@ This could drastically affect my personal life as there may not be a need for pr
 The same is true for my family and friends and indeed anyone, so much of world is run by cars, trucks and buses for transporting people and goods. This would be a drastic change for the world once it comes into full effect.
 
 
-
-
-References:
-https://www.parliament.vic.gov.au/publications/research-papers/download/36-research-papers/13839-automated-vehicles
-https://www.racv.com.au/on-the-road/driving-maintenance/road-safety/car-safety/autonomous-vehicles.html    
-
      </p>
 
 <h3>Machine Learning</h3>
@@ -295,15 +289,17 @@ https://www.racv.com.au/on-the-road/driving-maintenance/road-safety/car-safety/a
 Machine learning is all about using computer algorithms that self improve via repetition. They mainly use point systems to train the ai, where a point is given as reward for completing a certain objective and then the ai figures out the best way to gain the most amount of points. The technology is advancing at a rapid pace, just a few years ago the team at OPEN AI were able to make a program that beat the best players in the world in a video game called Dota 2.
 <br>
 It was able to outthink and outsmart the players that had played this game their entire lives using their point based learning systems. Machine learning is currently used today in such a large amount of fields including banking, stock markets, online advertising and agriculture. Machine learning is responsible for helping oil company find billions of barrels worth of oil hidden in the ground, it helps museums analyse paintings and find common influences in artists and even predicted the 2008 financial crisis. Machine learning is responsible for the development of personal assistants used by Google amazon and Apple, They're used in video surveillance overseas to help predict bad behaviour and are even what we google uses to try and keep our email spam free.
-<br>
+</p>
+<p>
 Its impossible to say what is likely to be done soon, it really depends on the new challenges that the world faces. As we advance our computing power, machine learning will become faster which will mean we will be able to solve more complex problems faster. machine learning is currently being used to help develop a cure for Covid-19, by analysing the effects of different substances and compiling them together into theoretical drugs. The things that makes developments in the field of machine learning possible are better hardware and more efficient learning methods, who knows when the next big breakthrough will be.
 <br>
 The potential impact of machine learning improving wouldn't be a noticeable difference. It would mean problems get solved faster, its difficult to really discuss what would change except for the ease on business', they would save money on computing power required, wage spent on staff due to faster development time and of course faster project turnaround time.  
-<br>
+</p>
+<p>
 Although its hard to discuss the impact this will have on the technology, the applications it will have in relation to my life will be felt daily. My Google virtual assistant will become scarily human, and there are already talks about it learning how to tell your mood just by your voice. The advertisements targeted against me will become solely things I want and advertised in probably the most ideal way to get me to buy them. My google maps will become much more efficient at reading traffic and closed routes and will be able to direct me to the most efficient route. My Facebook feed will become much more targeted against me, on a much similar vein as advertising.
 <br>
 My gmail will be spam free and online customer support will be able to tell my problems much easier than I could ever describe them. Basically machine learning would be responsible for improving every aspect of my IT life, and its and exciting thought for sure.
-https://medium.com/app-affairs/9-applications-of-machine-learning-from-day-to-day-life-112a47a429d0
+
 </p>
 
 <h2>Project Idea</h2>
@@ -312,12 +308,14 @@ For this assignment we have decided to build off of Kyle's idea of making an ai 
 <br>
 
 The goal of the game is to make money while keeping the ai players wants and needs fulfilled, this is going to add a nice layer of challenge for the human player which will keep the game interesting and fun. The ai is the main focus of the game,  they will be spawned into the world with randomly generated stats which will give them different weightings towards bossing or socialising for example, this is to make sure there is no set strategy for beating this game and will make every playthrough feel unique.
-<br>
+</p>
+<p>
  Structures and building zones are to fill the needs of the ai, these will include things such as boss zones, city zones and skilling stations. These areas will adjust the ai want and need bars based on weighting and how long the ai was there for. Money is a key aspect of the game and is there to give a sense of progression for the human player, this will impact the human players ability to grow their game world and dictate how much ai can be spawned in at a time, like a theoretical server limit.
  <br>
 
 We have taken feedback from Tim and have decided to add some new ideas of our own to this project. Firstly, we will be using Azure to help with the ai design and making sure it acts as intelligently as possible, we may also be able to use machine learning to make sure the ai reaches certain goals and has the amount of activity ratio's we desire. We have also explored the possibility of doing a mobile launch, this would provide us with a much larger potential playerbase.
-<br>
+</p>
+<p>
 This would come with a few unique challengers for us such as remaking the game for mobile or porting it, learning about how to stand out in the mobile marketplace which is vastly different to something like steam. Adding on from previous talks about the project, we have decided to add co-op play, in which people can join your current save and build with you. This will add an extra layer of difficulty for us as it means we would have to learn about net coding, as well as different methods for handling save games.
 </p>
 
@@ -326,23 +324,32 @@ This would come with a few unique challengers for us such as remaking the game f
 Kyle Winfield:
 
 During this assignment there were mostly only problems due to time constraints that were very avoidable. The main problem is the lack of group members that occurred due to leaving the assignment to a very late date for completion and not being to find other group members to work with us.
-<br>
+<p>
+</p>
 This caused a high work load in a short amount of time. While manageable it wasn’t particularly easy. However only have one other person in my group, it made communicating and organizing the assignment very easy as we could quickly split the work load and get started straight away, uploading pieces of the assignment as we finish it and then lastly compiling the whole assignment together.
-<br>
+</p>
+<p>
 It was surprising how efficient it was only needing to work with one other person, fewer lines of communication can lead to quick and effective teamwork.
 The assignment could definitely be improved if I had started earlier and worked with a bigger group but at the same time, more people creates more potential for organizational issue in my opinion.
+<p>
+</p>
 The github trail reflects basically exactly what each of us worked on, each commit is a piece of the assignment that we then can use to compile into a single pdf and create the website.
 </p>
 <br>
 <p>
 Kyle Broadhurst:
+<br>
 What went well:
 We were able to work efficiently and quickly once we realised that our group was going to be just us. We had really effective communication and were able to quickly allocate work to be done.
-<br>
+</p>
+<p>
 What could be improved:
-In the future, we should be more proactive in seeking out group members, to make sure we can find other active people to work with. We could of started working much earlier, to avoid a crunch, and to improve the overall quality of the work.
 <br>
+In the future, we should be more proactive in seeking out group members, to make sure we can find other active people to work with. We could of started working much earlier, to avoid a crunch, and to improve the overall quality of the work.
+</p>
+<p>
 One surprising thing:
+<br>
 I was surprised at how quickly we were able to do the work, and how easy it was to work together, I thought there would be more difficulty in allocating work but it was fine.
 What I learned about groups
 <br>
@@ -357,9 +364,23 @@ I learned that working in a group can have some issues, even with the best of pl
 
 <foot>
   <h2> References</h2>
-  <p>
+  <ol>
 
-  </p>
+  <li>http://si-journal.org/index.php/JSI/article/viewFile/335/325</li>
+  <li>https://www.investopedia.com/terms/c/cryptocurrency.asp</li>
+  <li>https://www.investopedia.com/terms/b/blockchain.asp</li>
+  <li>https://www.cbinsights.com/research/industries-disrupted-blockchain/</li>
+  <li>https://www.outsource2india.com/software/articles/impact-cryptocurrency-bitcoin.asp</li>
+  <li>https://www.investopedia.com/articles/forex/091013/future-cryptocurrency.asp</li>
+
+  <li>https://www.cisco.com/c/en_au/products/security/what-is-cybersecurity.html</li>
+  <li>https://us.norton.com/internetsecurity-malware-what-is-cybersecurity-what-you-need-to-know.html</li>
+  <li>https://www.onelogin.com/learn/what-is-mfa</li>
+  <li>https://www.parliament.vic.gov.au/publications/research-papers/download/36-research-papers/13839-automated-vehicles</li>
+  <li>https://www.racv.com.au/on-the-road/driving-maintenance/road-safety/car-safety/autonomous-vehicles.html </li>
+
+<li>https://medium.com/app-affairs/9-applications-of-machine-learning-from-day-to-day-life-112a47a429d0</li>
+  </ol>
 
 
 

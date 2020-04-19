@@ -11,7 +11,7 @@
         </p>
         <br>
         <a href="https://kylewinfield.github.io/Assignment1--My-Profile/">
-        <p>Kyle Winfield's Profile<p/> </a>
+        <p>Kyle Winfield's Profile</p> </a>
 
         <br>
 

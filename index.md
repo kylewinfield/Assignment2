@@ -190,9 +190,10 @@ He does note that he can work from home on occasion which he enjoys, but the mos
 
 <h3> IT Manager</h3>
 <p>
-<a href="https://www.youtube.com/watch?v=k0rntQHNu-U"
+<a href="https://www.youtube.com/watch?v=k0rntQHNu-U">
 https://www.youtube.com/watch?v=k0rntQHNu-U
 </a>
+<br>
 Rim is a project manager, her job is to make sure everyone is doing their job, check up on where people are up to and agile project management tasks . Rim interacts with IT professionals only.
 <br>
 She spends most of her time at the office except for when she goes out to lunch, in which she goes into the city. The most challenging aspect of their career seems to be time management, making sure she's working as efficiently and possible and meeting deadlines.
@@ -203,6 +204,7 @@ She spends most of her time at the office except for when she goes out to lunch,
 <a href="https://www.youtube.com/watch?v=hFhuMGanjT8">
 https://www.youtube.com/watch?v=hFhuMGanjT8
 </a>
+<br>
 Simon is an IT manager at Datacom systems. He interacts solely with other IT professionals, project managers and business manager. His day consists of group meeting and one on one chats with other Industry professionals to help them succeed in their roles, although sometimes he does get to travel. His biggest challenge as an IT manager is adapting to new technologies
 
 </p>
@@ -295,12 +297,6 @@ My friends and family will and need to use similar precautions as in the digital
 
 
 
-
-
-
-
-References:
-
 </p>
 
 <h3> Autonomous Vehicles</h3>
@@ -373,8 +369,9 @@ This would come with a few unique challengers for us such as remaking the game f
 </p>
 
 <h2>Group Reflection</h2>
+
+<h3>Kyle Winfield:</h3>
 <p>
-Kyle Winfield:
 <br>
 During this assignment there were mostly only problems due to time constraints that were very avoidable. The main problem is the lack of group members that occurred due to leaving the assignment to a very late date for completion and not being to find other group members to work with us.
 <p>
@@ -389,9 +386,9 @@ The assignment could definitely be improved if I had started earlier and worked 
 The github trail reflects basically exactly what each of us worked on, each commit is a piece of the assignment that we then can use to compile into a single pdf and create the website.
 </p>
 <br>
-<p>
-Kyle Broadhurst:
+<h3>Kyle Broadhurst:</h3>
 <br>
+<p>
 What went well:
 We were able to work efficiently and quickly once we realised that our group was going to be just us. We had really effective communication and were able to quickly allocate work to be done.
 </p>

@@ -175,14 +175,18 @@ The rest of his role is mainly just monitoring the databases, making sure everyt
 <a href="https://www.youtube.com/watch?v=om8AygYdrto">
 https://www.youtube.com/watch?v=om8AygYdrto
 </a>
+<br>
+<br>
 In this video the mans job is as a support technician for his company. He interacts with other It professionals and clients . His job is to wait for and respond to tickets. Everyday he waits for tickets and answers the phone using Shortell.
 <br>
 He also goes out into the field to clients and helps clients with issues such as making user accounts. He does computer imaging. All in all it is safe to say he always has an exciting day with many new challenges every day and that makes him enjoy his job.
 </p>
 <p>
-<a href="https://www.youtube.com/watch?v=RYdmWa-i7Gs"
+<a href="https://www.youtube.com/watch?v=RYdmWa-i7Gs">
 https://www.youtube.com/watch?v=RYdmWa-i7Gs
 </a>
+<br>
+<br>
 Chris is an IT Support Technician at Datacom systems. His job consists of responding the technical questions asked by clients. He spends most of his time responder to questions about application updates, website releases and application releases.
 <br>
 He does note that he can work from home on occasion which he enjoys, but the most rewarding aspect of work is the sense of accomplishment he gets when he solves a tough problem. He believes the most challenging aspect of his work is the wide range of skills required for the job.
@@ -194,6 +198,7 @@ He does note that he can work from home on occasion which he enjoys, but the mos
 https://www.youtube.com/watch?v=k0rntQHNu-U
 </a>
 <br>
+<br>
 Rim is a project manager, her job is to make sure everyone is doing their job, check up on where people are up to and agile project management tasks . Rim interacts with IT professionals only.
 <br>
 She spends most of her time at the office except for when she goes out to lunch, in which she goes into the city. The most challenging aspect of their career seems to be time management, making sure she's working as efficiently and possible and meeting deadlines.
@@ -204,6 +209,7 @@ She spends most of her time at the office except for when she goes out to lunch,
 <a href="https://www.youtube.com/watch?v=hFhuMGanjT8">
 https://www.youtube.com/watch?v=hFhuMGanjT8
 </a>
+<br>
 <br>
 Simon is an IT manager at Datacom systems. He interacts solely with other IT professionals, project managers and business manager. His day consists of group meeting and one on one chats with other Industry professionals to help them succeed in their roles, although sometimes he does get to travel. His biggest challenge as an IT manager is adapting to new technologies
 

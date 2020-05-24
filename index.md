@@ -649,16 +649,17 @@ While working in groups I've learnt how organised things need to be in order to 
 <h3>Kyle Broadhurst:</h3>
 <br>
 <p>
-What went well.
+<h4>What went well</h4>
+
 Our teamwork and our ability to share the same vision for this product was very welcome, I was surprised at how quickly we came to agreement on many aspects and how well we worked together as a team.
 <br>
-What could be improved.
+<h4>What could be improved</h4>
 Time management again was a big issue, Due to conflicting work and sleep schedules it was often difficult for our to find a time to communicate and work while both being in an acceptable working mood.
 <br>
-One thing that was surprising
+<h4>One thing that was surprising</h4>
 I was surprised with how to plan came together, and how approachable this project became once we put it into workable parts.
 <br>
-What I learned about groups.
+<h4>What I learned about groups</h4>
 I learnt that it isn't always so easy to find time to work together online, and how conflicting schedules can really interrupt work flow.
 
 </p>

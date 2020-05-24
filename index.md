@@ -485,6 +485,8 @@ There will most likely be nothing outside of very basic features of the plan of 
 <h3>Tools and technologies</h3>
 <p>
 Software: Unity 2019.3, Azure Machine Learning account, Microsoft Office 365, Visual Studio 2019 16.6.0, Adobe Photoshop 2020 21.1.0,
+</p>
+<p>
 Hardware: 2x PC with a current generation CPU (i5 or equivlent/higher), atleast 16GB of RAM, dedicated graphics card with at least 2GB of VRAM( GeForce 470 GTX or equivalent/higher), 1TB HDD, 200GB SSD, multiple 24-inch monitor set-up.
 </p>
 
@@ -502,7 +504,7 @@ These users will be found through volenteers within online forums and through co
 
 <h3>Timeline</h3>
 <br>
-<img src = "timeline.png">
+<img src = "Timeline.png">
 <br>
 
 <h3>Risks</h3>

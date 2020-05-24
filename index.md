@@ -507,7 +507,7 @@ Hardware:
 
 <h3>Testing</h3>
 <p>
-We will test the project ourselves as we go along, building the game one step at a time. A lot of the development will be testing seperate mechanics within the game, such as keeping track of the AI controlled units, being able to create different features (such as spawn areas, walking paths etc.) and saving worlds.
+We will test the project ourselves as we go along, building the game one step at a time. A lot of the development will be testing separate mechanics within the game, such as keeping track of the AI controlled units, being able to create different features (such as spawn areas, walking paths etc.) and saving worlds.
 <br>
 Once a playable start to the game is able to be played, bug testing will be something to try to make sure the core mechanics are stable and playable for the end user.
 <br>
@@ -561,15 +561,16 @@ Technical skills:
 <li>Minimum 3 years experience coding in C# and .Net architecture</li>
 <li>Minimum 3 years experience developing in the Unity game engine</li>
 <li>Experience working with Visual studio</li>
-<li>Experience working with Adobe Photoshop/<li>
-<li>Experience in different game development platforms, i.e Android/iOS</li>
+<li>Experience working with Adobe Photoshop</li>
+<li>Experience in different game development platforms, i.e Android/iOS </li>
+
 </ul>
 </p>
 
 <h3>3D Game Artist:</h3>
 <p>
-<ul>
 What we are looking for:
+<ul>
 <li>Creative and ambitious artists</li>
 <li>Ability to work efficiently within a team environment</li>
 <li>Punctual and prossional attitude</li>

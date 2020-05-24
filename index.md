@@ -484,10 +484,25 @@ There will most likely be nothing outside of very basic features of the plan of 
 
 <h3>Tools and technologies</h3>
 <p>
-Software: Unity 2019.3, Azure Machine Learning account, Microsoft Office 365, Visual Studio 2019 16.6.0, Adobe Photoshop 2020 21.1.0,
+Software:
+<ul>
+<li>Unity 2019.3</li>
+<li>Azure Machine Learning account</li>
+ <li>Microsoft Office 365</li>
+<li>Visual Studio 2019 16.6.0</li>
+ <li>Adobe Photoshop 2020 21.1.0</li>
+</ul>
 </p>
 <p>
-Hardware: 2x PC with a current generation CPU (i5 or equivlent/higher), atleast 16GB of RAM, dedicated graphics card with at least 2GB of VRAM( GeForce 470 GTX or equivalent/higher), 1TB HDD, 200GB SSD, multiple 24-inch monitor set-up.
+Hardware:
+<ul>
+  <li>2x PC with a current generation CPU (i5 or equivalent/higher)</li>
+  <li>atleast 16GB of RAM</li>
+  <li>dedicated graphics card with at least 2GB of VRAM( GeForce 470 GTX or equivalent/higher)</li>
+  <li>1TB HDD</li>
+  <li>200GB SSD</li>
+  <li>multiple 24-inch monitor set-up</li>
+</ul>
 </p>
 
 <h3>Testing</h3>
@@ -499,7 +514,7 @@ Once a playable start to the game is able to be played, bug testing will be some
 <br>
 Later on when the games mechanics are implemented, usable and there is a a game to be played, we will need to find users to test the game and get feedback on the idea of the game as well as more bug testing. A lot of the testing involved with this project will be bug testing as it is always going to be an issue.
 <br>
-These users will be found through volenteers within online forums and through contacts of the group members. There will need to be at least 5 testers to get sufficient feedback on the games. This process can be repeated numerous times throughout the development as the game reaches new stages of development
+These users will be found through volunteers within online forums and through contacts of the group members. There will need to be at least 5 testers to get sufficient feedback on the games. This process can be repeated numerous times throughout the development as the game reaches new stages of development
 </p>
 
 <h3>Timeline</h3>
@@ -531,66 +546,85 @@ There will be phone numbers exchanged between group members so that they can be 
 <h3>Game Lead Programmer:</h3>
 <p>
 What we are looking for :
--Strong communication skills
--Ability to lead a cross functional team on technology and game features
--Strong problem solving skills
--Enthusiastic personality and willingness to engage with a team
--Experience managing and working with a team
+<ul>
+  <li>Strong communication skills</li>
+  <li>Ability to lead a cross functional team on technology and game features</li>
+  <li>Strong problem solving skills</li>
+  <li>Enthusiastic personality and willingness to engage with a team</li>
+  <li>Experience managing and working with a team</li>
+</ul>
 </p>
 <p>
 
 Technical skills:
--Minimum 3 years experience coding in C# and .Net architecture
--Minimum 3 years experience developing in the Unity game engine
--Experience working with Visual studio
--Experience working with Adobe Photoshop
--Experience in different game development platforms, i.e Android/iOS
+<ul>
+<li>Minimum 3 years experience coding in C# and .Net architecture</li>
+<li>Minimum 3 years experience developing in the Unity game engine</li>
+<li>Experience working with Visual studio</li>
+<li>Experience working with Adobe Photoshop/<li>
+<li>Experience in different game development platforms, i.e Android/iOS</li>
+</ul>
 </p>
 
 <h3>3D Game Artist:</h3>
 <p>
+<ul>
 What we are looking for:
--Creative and ambitious artists
--Ability to work efficiently within a team environment
--Punctual and prossional attitude
+<li>Creative and ambitious artists</li>
+<li>Ability to work efficiently within a team environment</li>
+<li>Punctual and prossional attitude</li>
+</ul>
+
 Technical skills:
--Bachelors degree in a relevant field
--Minimum 3 years experience in the industry
--Experience using Photoshop, Blender, Unity
+<ul>
+<li>Bachelors degree in a relevant field</li>
+<li>Minimum 3 years experience in the industry</li>
+<li>Experience using Photoshop, Blender, Unity</li>
+</ul>
+
 </p>
 
 
 <h3>Game programmer:</h3>
 <p>
--Strong communication skills
--Ability to take initiative and become active within a team environment
--Strong problem solving skills
--Passion for games
+<ul>
+<li>Strong communication skills</li>
+<li>Ability to take initiative and become active within a team environment</li>
+<li>Strong problem solving skills</li>
+<li>Passion for games</li>
+</ul>
+
 </p>
 <p>
 
 Technical skills:
--Minimum 3 years experience coding in C# and .Net architecture
--Minimum 3 years experience developing in the Unity game engine
--Experience working with Visual studio
--Experience working with Adobe Photoshop
+<ul>
+<li>Minimum 3 years experience coding in C# and .Net architecture</li>
+<li>Minimum 3 years experience developing in the Unity game engine</li>
+<li>Experience working with Visual studio</li>
+<li>Experience working with Adobe Photoshop</li>
+</ul>
 </p>
 
 
 <h3>Game programmer:</h3>
 <p>
--Strong communication skills
--Ability to take initiative and become active within a team environment
--Strong problem solving skills
--Passion for games
+<ul>
+<li>Strong communication skills</li>
+<li>Ability to take initiative and become active within a team environment</li>
+<li>Strong problem solving skills</li>
+<li>Passion for games</li>
+</ul>
 </p>
 
 <p>
 Technical skills:
--Minimum 3 years experience coding in C# and .Net architecture
--Minimum 3 years experience developing in the Unity game engine
--Experience working with Visual studio
--Experience working with Adobe Photoshop
+<ul>
+<li>Minimum 3 years experience coding in C# and .Net architecture</li>
+<li>Minimum 3 years experience developing in the Unity game engine</li>
+<li>Experience working with Visual studio</li>
+<li>Experience working with Adobe Photoshop</li>
+</ul>
 </p>
 
 <p>

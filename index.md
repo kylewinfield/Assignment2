@@ -45,6 +45,12 @@
       We found our team to score very high on the openness aspect, so we knew it would be a good idea to lay out the assignment early on and decide who does what, we also worked together on discord to keep communication lines open .
       </p>
 
+      <h2> Group processes</h2>
+      <p>
+      The group worked in a fast, efficient and productive manner in Assignment 2. With only 2 members of the group, there is little confusion about any tasks, and if there is it is able to be quickly resolved since there are less lines of communication that need to be used.
+      There won't be any changes from the way the group worked in Assignment 2 as we feel there is no need.
+      </p>
+
       <h2>Ideal Jobs Comparison</h2>
         <h3>Kyle Winfield's job ad</h3>
           <img src="Kyle Winfield Resources/JobAd.png">
@@ -55,6 +61,15 @@
 
       <p>
       Both our dream jobs require a great understanding of coding, with multiple years of prior experience. Both jobs need you to be a self motivated worker and are very rewarding for being so. The main difference between the jobs is the Singaporean one is more hardware based while the other one is entirely focused of software. It would be safe to safe both career plans follow a similar  path in the IT industry, just a difference in the outputs.
+      </p>
+
+      <h2>Career plans</h2>
+      <p>
+      While comparing our ideal jobs, it's easy to see that we both need some strong coding skills in C++, the differences lie in while Broadhurst's job is about learning how game engines work and taking into account game design, Winfield's job is about optimizing a high performance software system that has critical needs of accuracy, precision and speed.
+      <br>
+      Both jobs obviously require teamwork skills, as do most jobs in software development, which comes along with strong communication skills in order to be a good team member.
+      <br>
+      Our career plans require a similar skill set just in a different implementation for the experience required to achieve our respective dream jobs. Broadhurst would likely want a resume with some more creative tasks and experience on it, while Winfield would be more interested in the design of efficient code and experience in designing any high performance software system.
       </p>
 
       <a href="https://github.com/kylewinfield/Assignment2">
@@ -362,55 +377,186 @@ My gmail will be spam free and online customer support will be able to tell my p
 For this assignment we have decided to build off of Kyle's idea of making an ai based game in Unity, Which has the player make an MMO by placing down zones which the ai will then use to level itself up and fill requirements.  There are plans for a variety of features including bosses, training zones and a completely ai run market that has adjusting prices from supply and demand to match a real MMO market.
 <br>
 
-The goal of the game is to make money while keeping the ai players wants and needs fulfilled, this is going to add a nice layer of challenge for the human player which will keep the game interesting and fun. The ai is the main focus of the game,  they will be spawned into the world with randomly generated stats which will give them different weightings towards bossing or socialising for example, this is to make sure there is no set strategy for beating this game and will make every playthrough feel unique.
-</p>
+<h3>Overview</h3>
 <p>
- Structures and building zones are to fill the needs of the ai, these will include things such as boss zones, city zones and skilling stations. These areas will adjust the ai want and need bars based on weighting and how long the ai was there for. Money is a key aspect of the game and is there to give a sense of progression for the human player, this will impact the human players ability to grow their game world and dictate how much ai can be spawned in at a time, like a theoretical server limit.
- <br>
+The main focus of the project is to develop a video game in which the player essentially creates a Massively-Multiplayer Online video game (MMO-Game).
+In this game, the player controls the environment of constantly spawning AI controlled units in order to best enhance the AI's progression and strength in order to complete quests that will earn the player money to expand the world of their created game.
+As the player earns more money and progresses further into the game, there are more and more features available for the player to use in order to expand the world and level up the AI.
+It is a sandbox-like game in which the player is motivated to progress through the game in order to unlock more content to add into their world. However there are also objectives within the game that you need your AI to be strong enough to complete, which will grant the player more money upon completion.
+</p>
+<h3>Motivation</h3>
+<p>
+This project is interesting as it's the kind of game we would like to play, as we are both big fans of MMO and similar styled games.
+Giving the user the power to create their own content is a popular feature for many modern games that not only extends the lifespan of games but makes them more popular as well.
+This kind of project would show future employers some software development skills, ability to work in a team, experience with working in projects, some initiative and ability to adapt when required.
 
-We have taken feedback from Tim and have decided to add some new ideas of our own to this project. Firstly, we will be using Azure to help with the ai design and making sure it acts as intelligently as possible, we may also be able to use machine learning to make sure the ai reaches certain goals and has the amount of activity ratio's we desire. We have also explored the possibility of doing a mobile launch, this would provide us with a much larger potential playerbase.
+</p>
+<h3>Landscape</h3>
+<p>
+
+
+</p>
+<h3>Aims</h3>
+<p>
+The main aim of the project is to explore the idea of a game in which the player creates an MMO-Game, and develop this game as much as possible. There are other aims like exploring the development process of creating a game, and using all the relevant software.
+Exploring this idea of the game will include attempting to implement the game into a playable state while trying to keep the end user's experience in mind. This means developing a game, taking user feedback on the game and trying to create the best experience possible with this particular idea in mind.
+<br>
+We want to create a positive end user experience so that the game is of a high a quality as can be. Since this project is important to the both of us, we feel strongly about developing our game to it's highest potential, making necessary changes along the way.
+The other main goal is just to explore the game making process, as neither of us have made a game before but have spent much of our lives playing them. We are both very passionate about games and love to have the insight in to the creation development process.
+</p>
+
+
+<h3>Plans and progress</h3>
+
+<h3>Roles</h3>
+<p>
+For roles, there will be Broadhurst looking after the design of the game and Winfield dealing with the programming.
+<br>
+The reason it should be divided like this is so that the relevant skills can be distributed properly to where they are most useful and people that are creating certain parts of the game can continue to develop what they create, rather than different people having to come in and look over someone else's code, or design choices.
+<br>
+Since it is a small team, a lot of the work being done may cross over, but having one person responsible for one general area makes it easier for them to stay on top of the project.
+</p>
+
+<h3>Scopes and limits</h3>
+<p>
+For this project and the time allocated, it is extremely unlikely that anything even closely resembling a finished project will come out of it to due to the ambitious nature and sheer size of the project.
+<br>
+With this in mind, the project itself will try to aim to create some mechanics of the game that are functional within the context of themselves, and if time allows, a very basic early version of the game itself.
+There will most likely be nothing outside of very basic features of the plan of the game.
+</p>
+
+<h3>Tools and technologies</h3>
+<p>
+Software: Unity 2019.3, Azure Machine Learning account, Microsoft Office 365, Visual Studio 2019 16.6.0, Adobe Photoshop 2020 21.1.0,
+Hardware: 2x PC with a current generation CPU (i5 or equivlent/higher), atleast 16GB of RAM, dedicated graphics card with at least 2GB of VRAM( GeForce 470 GTX or equivalent/higher), 1TB HDD, 200GB SSD, multiple 24-inch monitor set-up.
+</p>
+
+<h3>Testing</h3>
+<p>
+We will test the project ourselves as we go along, building the game one step at a time. A lot of the development will be testing seperate mechanics within the game, such as keeping track of the AI controlled units, being able to create different features (such as spawn areas, walking paths etc.) and saving worlds.
+<br>
+Once a playable start to the game is able to be played, bug testing will be something to try to make sure the core mechanics are stable and playable for the end user.
+<br>
+<br>
+Later on when the games mechanics are implemented, usable and there is a a game to be played, we will need to find users to test the game and get feedback on the idea of the game as well as more bug testing. A lot of the testing involved with this project will be bug testing as it is always going to be an issue.
+<br>
+These users will be found through volenteers within online forums and through contacts of the group members. There will need to be at least 5 testers to get sufficient feedback on the games. This process can be repeated numerous times throughout the development as the game reaches new stages of development
+</p>
+
+<h3>Timeline</h3>
+<br>
+<img src = "timeline.png">
+<br>
+
+<h3>Risks</h3>
+<p>
+There are many risks at hand for this particular project. Since our group members are inexperienced with the software and skills required for this type of project, there's risks that our skill in these areas may cause lots of issues. This would include programming skills, experience in game design, lack of experience in Unity, Azure and network servers.
+<br>
+There is also the risk that the workload may be far bigger than the size of the group, causing slow progress and/or lack of quality development.
+There is also a high likelihood that the game design will change significantly during development while figuring out exact how the game will be implemented in practice. A risk here is the focus of the game and what we want may be affected.
+</p>
+
+<h3>Group processes and communications</h3>
+<p>
+The group will communicate primarily through discord messages and voice calls on a seperate server deciated to the project. Messages will be sent almost every day with a voice call meeting 1-2 times a week.
+<br>
+<br>
+This frequent communication is vital to ensure the sucess of the project due to the project's ambitious nature.
+<br>
+There will be phone numbers exchanged between group members so that they can be contacted in case there is no response from a member, so they can be reached when needed.
+</p>
+
+
+<h2>Skills and Jobs</h2>
+
+<h3>Game Lead Programmer:</h3>
+<p>
+What we are looking for :
+-Strong communication skills
+-Ability to lead a cross functional team on technology and game features
+-Strong problem solving skills
+-Enthusiastic personality and willingness to engage with a team
+-Experience managing and working with a team
 </p>
 <p>
-This would come with a few unique challengers for us such as remaking the game for mobile or porting it, learning about how to stand out in the mobile marketplace which is vastly different to something like steam. Adding on from previous talks about the project, we have decided to add co-op play, in which people can join your current save and build with you. This will add an extra layer of difficulty for us as it means we would have to learn about net coding, as well as different methods for handling save games.
+
+Technical skills:
+-Minimum 3 years experience coding in C# and .Net architecture
+-Minimum 3 years experience developing in the Unity game engine
+-Experience working with Visual studio
+-Experience working with Adobe Photoshop
+-Experience in different game development platforms, i.e Android/iOS
+</p>
+
+<h3>3D Game Artist:</h3>
+<p>
+What we are looking for:
+-Creative and ambitious artists
+-Ability to work efficiently within a team environment
+-Punctual and prossional attitude
+Technical skills:
+-Bachelors degree in a relevant field
+-Minimum 3 years experience in the industry
+-Experience using Photoshop, Blender, Unity
+</p>
+
+
+<h3>Game programmer:</h3>
+<p>
+-Strong communication skills
+-Ability to take initiative and become active within a team environment
+-Strong problem solving skills
+-Passion for games
+</p>
+<p>
+
+Technical skills:
+-Minimum 3 years experience coding in C# and .Net architecture
+-Minimum 3 years experience developing in the Unity game engine
+-Experience working with Visual studio
+-Experience working with Adobe Photoshop
+</p>
+
+
+<h3>Game programmer:</h3>
+<p>
+-Strong communication skills
+-Ability to take initiative and become active within a team environment
+-Strong problem solving skills
+-Passion for games
+</p>
+
+<p>
+Technical skills:
+-Minimum 3 years experience coding in C# and .Net architecture
+-Minimum 3 years experience developing in the Unity game engine
+-Experience working with Visual studio
+-Experience working with Adobe Photoshop
+</p>
+
+<p>
+We will require a lot of the same skills over 3 of the programmer team members, since a lot of the bulk of the work needs to be actually programming the game to get it working. Most of the design will be handled by Winfield and Broadhurst, we just need programmers to get it functional.
 </p>
 
 <h2>Group Reflection</h2>
 
 <h3>Kyle Winfield:</h3>
 <p>
+Reflecting on this project it is clear to see that the idea is very ambitious and it is very unrealistic for the two of us to produce much of anything given the skills we currently possess, and the time that is given to us.
 <br>
-During this assignment there were mostly only problems due to time constraints that were very avoidable. The main problem is the lack of group members that occurred due to leaving the assignment to a very late date for completion and not being to find other group members to work with us.
-<p>
-</p>
-This caused a high work load in a short amount of time. While manageable it wasn’t particularly easy. However only have one other person in my group, it made communicating and organizing the assignment very easy as we could quickly split the work load and get started straight away, uploading pieces of the assignment as we finish it and then lastly compiling the whole assignment together.
-</p>
-<p>
-It was surprising how efficient it was only needing to work with one other person, fewer lines of communication can lead to quick and effective teamwork.
-The assignment could definitely be improved if I had started earlier and worked with a bigger group but at the same time, more people creates more potential for organizational issue in my opinion.
-<p>
-</p>
-The github trail reflects basically exactly what each of us worked on, each commit is a piece of the assignment that we then can use to compile into a single pdf and create the website.
-</p>
+Once again, I feel as though me and Kyle work fast and efficiently together. However similarly to last assignment, we have given ourself man power and time constraints that were possibly unnecessary that definitely create pressure that otherwise does not need to exist.
+It surprised me just how compliated the process of developing let alone a game idea, but actually needing to go and create such a thing is a very big project.
 <br>
+While working in groups I've learnt how organised things need to be in order to stay on top of the tasks at hand, staying in touch with your group members is very important for a successful project.
+</p>
+
+<br>
+
 <h3>Kyle Broadhurst:</h3>
 <br>
 <p>
-What went well:
-We were able to work efficiently and quickly once we realised that our group was going to be just us. We had really effective communication and were able to quickly allocate work to be done.
-</p>
-<p>
-What could be improved:
-<br>
-In the future, we should be more proactive in seeking out group members, to make sure we can find other active people to work with. We could of started working much earlier, to avoid a crunch, and to improve the overall quality of the work.
-</p>
-<p>
-One surprising thing:
-<br>
-I was surprised at how quickly we were able to do the work, and how easy it was to work together, I thought there would be more difficulty in allocating work but it was fine.
-What I learned about groups
-<br>
-I learned that working in a group can have some issues, even with the best of planning, I also learned that playing to the strengths of your groupmates is very important.
-<br>
+
+
 </p>
 
 

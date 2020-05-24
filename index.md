@@ -407,6 +407,63 @@ The other main goal is just to explore the game making process, as neither of us
 
 
 <h3>Plans and progress</h3>
+<p>
+Our project will be a game made using C# in the unity game engine, we have made a lot of changes to the original idea and have thought our what concepts we would like to be in the completed product. We plan on combining the following concepts into providing a MMO tycoon like game. When the player starts the game, they will be able to build a world that is a kin to a World of Warcraft  type MMO game, they will start off by purchasing a starting zone, which is a place for AI controlled units to spawn in and interact with the world around them, the player can then spend cash building paths and zones for these AI units to follow  and interact with, with the ultimate goal of building a fully functioning  MMO world for the fake players. The core gameplay loop will involve making money to build new zones for the AI to keep upgrading, while completing  challenging events and allowing the player to build up their dream world, the zones will get more expensive and give the player something to work towards to give the game a sense of progression instead of a sandbox feel.
+</p>
+<p>
+AI - Main focus of the game, spawns periodically into the world and seeks out tasks to do, has three main  randomly generated stats (social, skill, fighting) which give weighting towards the types of activities it will try to do. The AI will always seek to improve itself by either leveling skills, making money or achieving gear.
+</p>
+<p>
+AI skills - The AI will have 4 skills (cooking, fishing, mining and armour making). These skills are here to give the game life and encourage an organic economy, as well as give the AI more things to do.
+	<h4>Fishing</h4>   Fishing works via zones, essentially the AI will go to the zone and begin automatically rolling a dice every 5 second to catch fish, Using a roll from 1-10, with every roll of 10 rewarding the AI with a raw fish and experience towards leveling up. Fishing will go up to level 100 and every 10 levels the AI will start catching a new type of fish, replacing the old.  Once the AI has a full inventory it will walk to a bank and deposit the fish and then decide on a new task.
+  </p>
+  <p>
+	<h4>Cooking</h4>  Also working via zones, and required to be put in contact with a bank zone, cooking will have the AI take the raw fish from the bank and attempt to cook it, turning it into a product used to boost the chance of completing boss or mob areas. much like fishing, cooking will work on a dice roll system but will be much more forgiving, using a roll from 1-10, every roll above 5 will result in the raw fish turning into a usable food. The base dice rolls with happen once every 20 seconds with each level in cooking taking .1 seconds off the time between roles. every successful dice roll will reward the AI with cooking experience.
+  </p>
+  <p>
+	<h4>Mining</h4>   There will be designated mining zones, these will have name and colour templates and it will be up to the player to decide what these will be to give the player a feel for customisation, there will be 10 tiers (one every 10 levels) again using a dice roll system of 1-10 with a 10 rewarding the AI will some ore equal to their mining level, rolls occur every 20 seconds. once the AI has a full inventory it will deposit all ores into the bank.
+  </p>
+  <p>
+	<h4>Armour making</h4>   Needing to be placed next to a bank zone,  the AI will use available ores and combine them into equippable armour, the stats of the armour is decided by the tier of ore used and will be created once a minute.
+  </p>
+  <p>
+<h4>Inventory</h4>  The AI will have 100 inventory spots and this will not be upgradable. The AI will will their inventory up depending on the task they are doing and will always empty their inventory when they return to a bank.
+</p>
+<p>
+<h4>AI Bank</h4>  This will be a placeable zone where the AI can interact with their bank. Its function is to store items and also serve as a hub for the AI to decide what task to do next.
+</p>
+<p>
+<h4>Gear</h4>  Gear will be equippable items that are either created from armour making or dropped from bosses/mobs, the gear will add to an AI power bar which gives it a higher chance of doing bosses successfully.
+</p>
+<p>
+<h4>AI power bar</h4> This is what dictates whether an AI will pass or fail at a boss, The bar will increase depending on the type and amount of food in inventory, the gear worn, and will be multiplied by the fighting stat. an example would be food = 10, gear would add another 50, and then that would be multiplied by the fighting stat to give a final number.
+</p>
+<p>
+<h4>Bosses</h4>  Bosses would contain gear chosen by the player to drop and would have rolls to decide whether the AI will receive loot. The bosses would have a difficulty number set by the player on zone creation, and the AI would have their power bar rolled against it, with anything rolling less than the power bar number would result in a successful completion, rewarding the player with fighting experience and then inducing another roll to decide if loot will drop.
+</p>
+<p>
+<h4>Mobs</h4> Mobs will work similar to bosses except will be used more as a training ground to increase the fighting stat, the AI power bar will be rolled against the mob difficulty to decide on successful completion and a further roll of 1-50 will be made with a roll of 50 dictating the AI to chose a new task.
+</p>
+<p>
+<h4>Money</h4>  Money will be the players progression system and will be used to purchase any zones. The money will go up monthly depending on how many active AI there are, and will also go up as rewards for events.
+</p>
+<p>
+<h4>Events</h4>  Events will be dice rolled once per in-game day, and will either be instant decisions to make or will be time gated goals that the player should attempt to complete for rewards.
+</p>
+<p>
+<h4>Market</h4>  The was originally an idea to have an AI ran market but at the current time of writing this idea has been scrapped.
+</p>
+<p>
+<h4>Cities</h4>  Will be areas for the AI to logoff in, and will provide xp modifiers for being inside of these areas for a period of time.
+
+</p>
+<p>
+
+That is a list of concepts that we have developed currently and are currently researching how to implement into Unity.  This project began with a big dream of making a game, and throughout the past few weeks has been turned into an approachable goal with both of us fleshing out the idea and putting it into workable parts.
+<br>
+<br>
+The only dead end we have met is the cancelation of the AI run marketplace, just due to time constrictions it is not a concept we would be able to accomplish in the time frame. We have made a lot of progress towards turning  the ideas into something we can work towards and something we both understand. We believe we now have a shared vision on this project  and can turn it into something we would be proud of.
+</p>
 
 <h3>Roles</h3>
 <p>
@@ -544,8 +601,8 @@ We will require a lot of the same skills over 3 of the programmer team members, 
 <p>
 Reflecting on this project it is clear to see that the idea is very ambitious and it is very unrealistic for the two of us to produce much of anything given the skills we currently possess, and the time that is given to us.
 <br>
-Once again, I feel as though me and Kyle work fast and efficiently together. However similarly to last assignment, we have given ourself man power and time constraints that were possibly unnecessary that definitely create pressure that otherwise does not need to exist.
-It surprised me just how compliated the process of developing let alone a game idea, but actually needing to go and create such a thing is a very big project.
+Once again, I feel as though me and Kyle work fast and efficiently together. However similarly to last assignment, we have given ourselves man power and time constraints that were possibly unnecessary that definitely create pressure that otherwise does not need to exist.
+It surprised me just how complicated the process of developing let alone a game idea, but actually needing to go and create such a thing is a very big project.
 <br>
 While working in groups I've learnt how organised things need to be in order to stay on top of the tasks at hand, staying in touch with your group members is very important for a successful project.
 </p>
@@ -555,7 +612,17 @@ While working in groups I've learnt how organised things need to be in order to 
 <h3>Kyle Broadhurst:</h3>
 <br>
 <p>
-
+What went well.
+Our teamwork and our ability to share the same vision for this product was very welcome, I was surprised at how quickly we came to agreement on many aspects and how well we worked together as a team.
+<br>
+What could be improved.
+Time management again was a big issue, Due to conflicting work and sleep schedules it was often difficult for our to find a time to communicate and work while both being in an acceptable working mood.
+<br>
+One thing that was surprising
+I was surprised with how to plan came together, and how approachable this project became once we put it into workable parts.
+<br>
+What I learned about groups.
+I learnt that it isn't always so easy to find time to work together online, and how conflicting schedules can really interrupt work flow.
 
 </p>
 
